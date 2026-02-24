@@ -1,0 +1,4 @@
+# Lokale Entwicklung – ggf. H2 statt MySQL nutzbar
+spring:
+  jpa:
+    show-sql: true
