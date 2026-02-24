@@ -1,2 +1,2 @@
 # SimpleRisk
-Simple Riskmanagement Tool for InfoSec
+Simple Riskmanagement Tool for FUN!
